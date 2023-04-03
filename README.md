@@ -2,7 +2,10 @@
 unofficial api for new bing
 
 This repository is based on [EdeGPT](https://github.com/acheong08/EdgeGPT)
-
+# prepare
+1.需要通过waitlist
+2.有魔法
+3.安装[Cookie-Editor](https://microsoftedge.microsoft.com/addons/detail/cookieeditor/neaplmfkghagebokkhpjpoebhdledlfi)
 # HOW to run
 ```python
 conda create -n bing
