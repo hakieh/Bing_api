@@ -31,5 +31,5 @@ python EdgeGPT.py
 ```
 
 # addition
-[一些有意思的prompt](https://github.com/f/awesome-chatgpt-prompts)
-api还能和其他模型进行组合，可以自行探索
+- [一些有意思的prompt](https://github.com/f/awesome-chatgpt-prompts)
+- api还能和其他模型进行组合，可以自行探索
