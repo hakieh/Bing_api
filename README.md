@@ -1,7 +1,14 @@
 # Bing_api
 unofficial api for new bing
+newbing的非官方接口
 
 This repository is based on [EdgeGPT](https://github.com/acheong08/EdgeGPT)
+
+将newbing接入命令行能大大提高newbing的可玩性。
+动手能力强的建议直接修改原仓库，省事点可以直接参照demo.py改出自己的模板
+本仓库的代码的EdgeGPT.py稍微修改过一点，和原仓库的有些许不同
+
+
 # prepare
 - 1.需要通过waitlist
 - 2.有魔法
@@ -19,3 +26,6 @@ python EdgeGPT.py
 
 # 需要重复使用某个prompt时，可参照demo.py 设计自己的模板
 ```
+
+# addition
+[一些有意思的prompt](https://github.com/f/awesome-chatgpt-prompts)
