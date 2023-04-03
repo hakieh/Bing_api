@@ -7,7 +7,7 @@ This repository is based on [EdgeGPT](https://github.com/acheong08/EdgeGPT)
 - 2.有魔法
 - 3.安装[Cookie-Editor](https://microsoftedge.microsoft.com/addons/detail/cookieeditor/neaplmfkghagebokkhpjpoebhdledlfi)
 - 4.获取你的cookie并将其粘贴到cookies.json 中
-![how to obtain your cookies](figs/cookie.png)
+![how to obtain your cookie](figs/cookie.png)
 # HOW to run
 ```python
 conda create -n bing python=3.9
