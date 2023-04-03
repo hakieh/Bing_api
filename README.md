@@ -14,5 +14,8 @@ conda create -n bing
 conda activate bing
 pip install -r req.txt
 
+# 连续对话模式
 python EdgeGPT.py
+
+# 需要重复使用某个prompt时，可参照demo.py 设计自己的模板
 ```
