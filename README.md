@@ -1,7 +1,7 @@
 # Bing_api
 unofficial api for new bing
 
-This repository is based on [EdeGPT](https://github.com/acheong08/EdgeGPT)
+This repository is based on [EdgeGPT](https://github.com/acheong08/EdgeGPT)
 # prepare
 - 1.需要通过waitlist
 - 2.有魔法
