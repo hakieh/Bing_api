@@ -10,7 +10,7 @@ This repository is based on [EdeGPT](https://github.com/acheong08/EdgeGPT)
 ![how to obtain your cookies](figs/cookie.png)
 # HOW to run
 ```python
-conda create -n bing
+conda create -n bing python=3.9
 conda activate bing
 pip install -r req.txt
 
